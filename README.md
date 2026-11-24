@@ -52,3 +52,4 @@ dsa-tracker/
 ├── 13-2d-dp/
 ├── 14-greedy/
 └── 15-intervals/
+| 0242 | [Valid Anagram](https://neetcode.io/problems/is-an-anagram/question) | Arrays & Hashing | Green | 2026-11-24 | Frequency dicts must match after length check \| `O(n)` time, `O(k)` space |

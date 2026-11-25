@@ -53,3 +53,4 @@ dsa-tracker/
 ├── 14-greedy/
 └── 15-intervals/
 | 0242 | [Valid Anagram](https://neetcode.io/problems/is-an-anagram/question) | Arrays & Hashing | Green | 2026-11-24 | Frequency dicts must match after length check \| `O(n)` time, `O(k)` space |
+| 0001 | [Two Sum](https://neetcode.io/problems/two-integer-sum/question?list=neetcode150) | Arrays & Hashing | Green | 2026-11-25 | Nested loop checks pairs `(i, j)` with `j > i` \| `O(n^2)` time, `O(1)` space |

@@ -3,8 +3,8 @@
 Daily DSA practice in Python (2 problems/day) using NeetCode 150 and Striver's A2Z Sheet.
 
 ## Progress Dashboard
-- **Total Solved:** 6 / 150
-- Green (Solo): 6 | Yellow (Hint): 0 | Red (Review): 0
+- **Total Solved:** 7 / 150
+- Green (Solo): 7 | Yellow (Hint): 0 | Red (Review): 0
 
 ## Revision Queue
 | # | Problem | Pattern | Status | Last Solved | Complexity |
@@ -15,3 +15,4 @@ Daily DSA practice in Python (2 problems/day) using NeetCode 150 and Striver's A
 | 0049 | Group Anagrams | Arrays & Hashing | Green | 2026-11-25 | O(m * n log n) time, O(m * n) space |
 | 0347 | Top K Frequent Elements | Arrays & Hashing | Green | 2026-11-26 | O(n log n) time, O(n) space |
 | 0271 | Encode and Decode Strings | Arrays & Hashing | Green | 2026-11-26 | O(m) time, O(m) space |
+| 0238 | Product of Array Except Self | Arrays & Hashing | Green | 2026-11-27 | O(n) time, O(1) space |

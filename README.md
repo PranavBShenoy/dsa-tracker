@@ -3,8 +3,8 @@
 Daily DSA practice in Python (2 problems/day) using NeetCode 150 and Striver's A2Z Sheet.
 
 ## Progress Dashboard
-- **Total Solved:** 8 / 150
-- Green (Solo): 8 | Yellow (Hint): 0 | Red (Review): 0
+- **Total Solved:** 10 / 150
+- Green (Solo): 10 | Yellow (Hint): 0 | Red (Review): 0
 
 ## Revision Queue
 | # | Problem | Pattern | Status | Last Solved | Complexity |
@@ -17,3 +17,5 @@ Daily DSA practice in Python (2 problems/day) using NeetCode 150 and Striver's A
 | 0271 | Encode and Decode Strings | Arrays & Hashing | Green | 2026-11-26 | O(m) time, O(m) space |
 | 0238 | Product of Array Except Self | Arrays & Hashing | Green | 2026-11-27 | O(n) time, O(1) space |
 | 0128 | Longest Consecutive Sequence | Arrays & Hashing | Green | 2026-11-27 | O(n) time, O(n) space |
+| 0125 | Valid Palindrome | Two Pointers | Green | 2026-11-28 | O(n) time, O(n) space |
+| 0167 | Two Sum II - Input Array Is Sorted | Two Pointers | Green | 2026-11-28 | O(n) time, O(1) space |
